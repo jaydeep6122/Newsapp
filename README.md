@@ -10,8 +10,11 @@ A simple Flutter News App that uses the NewsAPI to fetch and display news articl
 
 ## Screenshots
 
-Add screenshots or gifs showcasing different parts of your app.
+### Home Page
+![Home Page](https://github.com/jaydeep6122/Newsapp/blob/main/Screenshot/home.jpg)
 
+### Webview of News
+![WebView Page](https://github.com/jaydeep6122/Newsapp/blob/main/Screenshot/webview.jpg)
 ## Getting Started
 
 ### Prerequisites
